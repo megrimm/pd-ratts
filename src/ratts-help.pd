@@ -1,4 +1,5 @@
 #N canvas 325 41 501 531 10;
+#X declare -lib ratts;
 #X text 181 500 Bryan Jurish <moocow@ling.uni-potsdam.de>;
 #X text 23 39 EXTERNALS:;
 #X obj 116 271 klatt~;
@@ -33,3 +34,4 @@
 \, Jon Iles \, Orm Finnendahl \, and Travis Newhouse \, and based on
 work by D.H. Klatt \, L.C. Klatt \, J.N. Holmes \, I. Mattingly \,
 and J. Shearme.;
+#X obj 355 52 declare -lib ratts;
