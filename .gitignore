@@ -1,0 +1,4 @@
+
+*.o
+*.pd_darwin
+dict/mkdicttxt
