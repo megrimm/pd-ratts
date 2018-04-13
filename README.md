@@ -3,4 +3,5 @@
 on MacOS
 
 $ ./autogen.sh
-$ ./configure --with-pd-include=/Applications/Pd.app/Contents/Resources/src/
+$ ./configure --with-pd-include=/Applications/Pd.app/Contents/Resources/src/ --with-pd-extdir=~/Documents/Pd/externals/
+$ make
